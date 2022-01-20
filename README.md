@@ -13,8 +13,7 @@
   ## Description
   This is a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. The application will also function offline.
 
-  Live Link :https://dashboard.heroku.com/apps/mighty-cove-19921/deploy/github
-
+  Live Link :https://mighty-cove-19921.herokuapp.com/
   <img src="https://user-images.githubusercontent.com/92957388/150263050-58ce9577-07d2-4cb5-8da2-120e21383e42.PNG" alt="Online">
   <img src="https://user-images.githubusercontent.com/92957388/150263055-3fdad48d-ad32-43fa-9084-4ecd63aa468f.PNG" alt="Offline">
 
